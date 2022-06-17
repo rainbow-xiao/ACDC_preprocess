@@ -4,6 +4,6 @@ Notebook for ACDC dataset preprocess
 2. Resize trick
   * Pad before resizing
   * Nearest Interpolation
-4. .nii.gz to .npz & .h5
+3. .nii.gz to .npz & .h5
 
 Note: Do some changes to make it work.
